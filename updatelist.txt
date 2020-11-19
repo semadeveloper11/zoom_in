@@ -1,1 +1,2 @@
-asdf
+1.0.2
+https://raw.githubusercontent.com/semadeveloper11/zoom_in/main/updater.exe
