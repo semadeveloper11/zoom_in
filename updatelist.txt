@@ -1,4 +1,4 @@
-1.0.2
+1.1.1
 https://raw.githubusercontent.com/semadeveloper11/zoom_in/main/updater.exe
 https://raw.githubusercontent.com/semadeveloper11/zoom_in/main/Zoom_In.exe
 a
